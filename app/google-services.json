@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "479824480016",
+    "firebase_url": "https://tugas-besar-mobile-prog-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tugas-besar-mobile-prog",
+    "storage_bucket": "tugas-besar-mobile-prog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479824480016:android:b5b60f4a64e45be2b90795",
+        "android_client_info": {
+          "package_name": "com.tubes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479824480016-rhsekf4miqeebq1hna2jm45qilniu7mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQYCFm9UffMJu1dOZBko5V3aFdpvQwmwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479824480016-rhsekf4miqeebq1hna2jm45qilniu7mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
