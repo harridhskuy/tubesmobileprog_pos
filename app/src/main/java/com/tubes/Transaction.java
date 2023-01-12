@@ -1,12 +1,11 @@
 package com.tubes;
 
-import java.io.Serializable;
-
-public class Transaction extends com.google.firebase.database.Transaction implements Serializable {
+public class Transaction{
     private String namapel;
     private String total;
 
-    public Transaction(String s){}
+    public Transaction() {
+    }
 
     public Transaction(String namapel, String total) {
         this.namapel = namapel;

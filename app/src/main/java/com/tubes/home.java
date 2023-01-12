@@ -47,7 +47,7 @@ public class home extends AppCompatActivity {
     }
 
     public void openhistory(){
-        Intent intent = new Intent(this,testfire.class);
+        Intent intent = new Intent(this,history.class);
         startActivity(intent);
     }
 
